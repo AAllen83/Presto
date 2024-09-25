@@ -1,0 +1,16 @@
+Description:
+While using Presto, if you switch to another app then return to Presto the map will disappear until you perform an action that will refresh the page.
+
+Steps to reproduce:
+1 - Open Presto
+2 - While in Map view open another app
+3 - Return to Presto
+
+Expected Result:
+Presto opens with the map refreshed.
+
+Actual Result:
+Presto opens but the map is no longer visible.(Video included)
+
+Workaround:
+To make the map reappear, go to the Plans or Account tabs then return to the map tab.
