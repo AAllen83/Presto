@@ -12,7 +12,7 @@ Expected Result:
 Each tab loads fully to it's default view.
 
 Actual Result:
-You will notice that eventually the Map view is different from the original view.
+You will notice that eventually the Map view is different from the original view.(Video included)
 
 Workaround:
 You can restore the default view by clicking the compass icon to refresh the view.
