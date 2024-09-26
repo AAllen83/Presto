@@ -17,7 +17,7 @@ Expected Result:
 The map will no longer show the un-favorited station.
 
 Actual Result:
-The un-favorited station is still shown.
+The un-favorited station is still shown.(Video included)
 
 Workaround:
 Refresh the Map by clicking the compass.
