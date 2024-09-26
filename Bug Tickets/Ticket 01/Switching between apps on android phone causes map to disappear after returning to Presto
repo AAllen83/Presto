@@ -1,6 +1,9 @@
 Description:
 While using Presto, if you switch to another app then return to Presto the map will disappear until you perform an action that will refresh the page.
 
+Severity:
+Medium
+
 Steps to reproduce:
 1 - Open Presto
 2 - While in Map view open another app
