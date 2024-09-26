@@ -1,0 +1,19 @@
+Description:
+While using Presto, when signing up the field requesting your phone number isn't configured to match the format of the US +1 country code selected.
+
+Severity:
+Low
+
+Steps to reproduce:
+1 - Open Presto
+2 - Initiate sign up process
+3 - Select US +1 code for phone number entry 
+
+Expected Result:
+The field is configured to accept 10 digits or the ### - ### - #### format
+
+Actual Result:
+The field allows ### - ### - #### - ####
+
+Workaround:
+None needed as the field still requests a valid number if more than 10 digits are entered.
