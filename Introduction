@@ -1,1 +1,2 @@
 This repository houses the results of my testing efforts on the mobile app Presto. The results & observations here are from my experience using my Samsung Z Fold 5 and my wife's iPhone 12 Pro Max.
+Despite testing with both Android & iOS, the test cases applied were from the perspective of an Android user then repeated on the iPhone. In true practice I would develop test cases to be specific to each user experience.
