@@ -1,0 +1,23 @@
+Description:
+While using Presto, if you unsave a favorite while the ‘Saved’ filter is active the map will still display the now former favorite until manually refreshed.
+
+Severity:
+Low
+
+Steps to reproduce:
+1 - From the Map view, select a recommended station.
+2 - Click the Favorites banner at the top right of the page.
+3 - After getting the visual confirmation that the station is now a favorite, return to the map tab.
+4 - Open the 'Filters' menu then select 'Saved stations' and click 'Apply'.
+5 - From the Map view, select the station using the banner at the bottom of the screen.
+6 - De-select the Favorites banner at the top right of the page.
+7 - After getting the visual confirmation that the station is no longer a favorite, return to the map tab.
+
+Expected Result:
+The map will no longer show the un-favorited station.
+
+Actual Result:
+The un-favorited station is still shown.
+
+Workaround:
+Refresh the Map by clicking the compass.
