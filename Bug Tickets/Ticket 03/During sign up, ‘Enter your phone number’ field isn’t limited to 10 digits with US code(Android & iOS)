@@ -13,7 +13,7 @@ Expected Result:
 The field is configured to accept 10 digits or the ### - ### - #### format
 
 Actual Result:
-The field allows ### - ### - #### - ####
+The field allows ### - ### - #### - #### (Screenshots included)
 
 Workaround:
 None needed as the field still requests a valid number if more than 10 digits are entered.
