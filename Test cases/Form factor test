@@ -1,6 +1,9 @@
 Description:
 As a Presto user, I expect the app to remain usable regardless of my phone screen's orientation.
 
-Test Steps:
-Starting from the “Get Started” page, confirm that all elements of the page remain visible regardless of the screen being shown landscape or portrait style(repeat for unfolded phones such as Samsung Z Fold).
+Test Step(s):
+Starting from the “Get Started” page.
 *Repeat for all applicable pages/views in the app e.g. Map, Plans & Account tabs
+
+Expected Result:
+Confirm that all elements of the page remain visible regardless of the screen being shown landscape or portrait style(repeat for unfolded phones such as Samsung Z Fold).
