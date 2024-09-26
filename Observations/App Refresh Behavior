@@ -1,1 +1,2 @@
-Map not always refreshing on it's own. Drove to a different location from last use but the map still highlighted the route from my last location to the recommended charger.*
+Map not always refreshing on it's own. Drove to a different location from last use but the map still highlighted the route from my last location to the recommended charger.
+While not reproducible, I did notice a consistent theme of the bugs I found revolving around this behavior. Is there something like a performance reason why the app doesn't always refresh on its own when opening a new page/view?
