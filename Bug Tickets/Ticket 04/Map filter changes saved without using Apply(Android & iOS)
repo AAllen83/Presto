@@ -1,0 +1,19 @@
+Description:
+While using Presto, making changes to the 'Show only' or 'Plug type' filters are applied without clicking the 'Apply' button.
+
+Severity:
+Medium
+
+Steps to reproduce:
+1 - Open Presto
+2 - From the Map tab, open the filters menu
+3 - Make a selection from 'Show only' or 'Plug type' then close the menu by clicking 'X'
+
+Expected Result:
+Once 'X' is clicked, the user is returned to the map without filters applied.
+
+Actual Result:
+Despite 'X' being clicked, the filters are still applied.(video included)
+
+Workaround:
+De-select any filters you do not want to be applied.
