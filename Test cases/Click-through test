@@ -1,5 +1,8 @@
 Description:
 As a first time Presto user, I don't expect anywhere on the "Get Started" page to respond to my screen taps other than the "Get Started" button itself.
 
-Test Steps:
-Starting from the top right of the screen, begin tapping until you've tapped everywhere except the "Get Started" button. Confirm no action was rendered.
+Test Step(s):
+Starting from the top right of the screen, begin tapping until you've tapped everywhere except the "Get Started" button. 
+
+Expected Result:
+Confirm no action was rendered.
